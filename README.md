@@ -8,6 +8,7 @@ Tüm şans oyunlarında ki fonksiyonlarımız aynıdır. results ve history diye
     $on_numara->history(); // boolen olarak false yada dizi olarak çekiliş tarihleri döner.
 
 **API'yi test etmek isterseniz demo endpoint:**
+
 *// On numara çekiliş tarihleri;*
 
 https://api.orhanaydogdu.com.tr/sans-oyunlari-api/api.php?tur=onnumara
