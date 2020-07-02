@@ -9,8 +9,11 @@ Tüm şans oyunlarında ki fonksiyonlarımız aynıdır. results ve history diye
 
 **API'yi test etmek isterseniz demo endpoint:**
 *// On numara çekiliş tarihleri;*
+
 https://api.orhanaydogdu.com.tr/sans-oyunlari-api/api.php?tur=onnumara
+
 *// On numara 2020-06-29 tarihli çekiliş sonucu:*
+
 https://api.orhanaydogdu.com.tr/sans-oyunlari-api/api.php?tur=onnumara&date=20200629
 
 Türler;
